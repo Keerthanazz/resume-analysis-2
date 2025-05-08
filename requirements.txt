@@ -3,5 +3,6 @@ google-generativeai
 PyPDF2
 logging
 json5
-re
 python-dateutil
+pandas
+numpy
